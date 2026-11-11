@@ -1,0 +1,10 @@
+# Keep your own files in "private". Never commit real data.
+private/
+data/*
+!data/practice_expense_claims.csv
+!data/practice_expense_claims_synthetic.csv
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+sdv_logs.csv

@@ -1,0 +1,6 @@
+# Tested with sdv 2.2.0, pandas 2.3.3, plotly 7.1.0 on Python 3.13 (November 2026)
+sdv==2.2.0
+pandas<3
+plotly>=6
+nbformat>=4.2
+jupyterlab>=4
