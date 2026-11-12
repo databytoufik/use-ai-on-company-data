@@ -1,201 +1,201 @@
 Claim ID,Submitted,Employee,Employee ID,Department,Category,Amount,Status,Decided
-CLM-00027,2026-08-28,Jasmine Harris,E00082,IT,Travel,258.15,Approved,2026-09-04
-CLM-00136,2026-03-27,Tammy Steele,E00033,Operations,Software,1447.52,Rejected,2026-04-09
-CLM-00101,2026-04-19,Matthew Williams,E00057,Operations,Travel,258.77,Approved,2026-04-29
-CLM-00049,2026-09-26,Dr. Alicia Smith,E00073,Finance,Office Supplies,198.97,Approved,2026-10-10
-CLM-00104,2026-01-29,Justin Miller,E00116,Finance,Software,57.41,Approved,2026-02-03
-CLM-00114,2026-06-28,Dennis Hart,E00068,Operations,Travel,158.77,Pending,2026-07-09
-CLM-00056,2026-08-26,Robin Livingston,E00183,Finance,Travel,484.28,Approved,2026-09-01
-CLM-00103,2026-07-25,James Marshall,E00105,Sales,Office Supplies,76.09,Approved,2026-08-04
-CLM-00132,2026-07-23,Roger Newton,E00130,Sales,Equipment,306.55,Approved,2026-07-25
-CLM-00133,2026-09-02,Jonathan Dominguez,E00195,IT,Travel,828.27,Approved,2026-09-10
-CLM-00058,2026-01-18,Amanda Rocha,E00087,Operations,Equipment,936.05,Pending,2026-01-26
-CLM-00120,2026-02-06,Steven Johnson,E00043,Finance,Software,230.54,Approved,2026-02-20
-CLM-00090,2026-04-28,Steven Chapman,E00005,Operations,Meals,95.14,Rejected,
-CLM-00063,2026-05-05,Kimberly Rivera,E00026,Sales,Software,793.03,Pending,2026-05-19
-CLM-00163,2026-03-13,Lynn Greene,E00158,Operations,Equipment,1373.72,Rejected,2026-03-20
-CLM-00040,2026-09-04,Amanda Smith,E00048,Marketing,Equipment,218.17,Approved,
-CLM-00158,2026-09-06,Victoria Prince,E00145,Marketing,Software,718.07,Approved,2026-09-15
-CLM-00156,2026-07-07,Andrew Ward,E00004,Marketing,Software,447.38,Approved,2026-07-19
-CLM-00024,2026-02-17,Nicole Williams,E00112,Marketing,Meals,371.3,Approved,2026-02-18
-CLM-00067,2026-03-27,Christopher Williams,E00146,Finance,Software,1253.38,Approved,2026-04-02
-CLM-00118,2026-03-02,Robert Huff,E00034,IT,Software,15.65,Approved,2026-03-14
-CLM-00137,2026-02-17,Joshua Young,E00124,Operations,Travel,143.48,Approved,
-CLM-00018,2026-07-29,Julia Santos,E00117,Operations,Equipment,1290.91,Pending,2026-08-11
-CLM-00031,2026-05-05,David Valencia,E00110,Operations,Office Supplies,1166.23,Approved,2026-05-19
-CLM-00001,2026-08-06,Courtney Cantrell,E00187,Operations,Meals,125.14,Approved,
-CLM-00160,2026-01-11,Megan Hood,E00176,Finance,Travel,1459.33,Approved,2026-01-20
-CLM-00006,2026-07-18,Taylor Martinez,E00019,Operations,Software,240.66,Approved,2026-07-27
-CLM-00149,2026-03-31,Jonathan Graham,E00136,Marketing,Travel,259.33,Approved,2026-04-02
-CLM-00135,2026-06-01,Raven Brown,E00184,Finance,Software,6.75,Approved,2026-06-03
-CLM-00015,2026-06-06,Steven Roberts,E00035,IT,Software,9.4,Approved,2026-06-12
-CLM-00023,2026-09-17,Joseph Green,E00047,IT,Equipment,73.97,Pending,
-CLM-00113,2026-04-27,Donald Hess,E00141,Operations,Travel,564.43,Approved,2026-05-02
-CLM-00167,2026-06-22,Mark Mcdaniel,E00142,Finance,Equipment,416.98,Approved,2026-07-02
-CLM-00032,2026-04-14,Michael Miller,E00099,Finance,Meals,25.45,Approved,2026-04-15
-CLM-00155,2026-01-16,Jennifer Gallegos,E00181,Sales,Equipment,213.06,Pending,2026-01-23
-CLM-00021,2026-02-27,Ronald Moore,E00060,Marketing,Meals,1115.22,Pending,2026-03-12
-CLM-00088,2026-05-14,Donald Dominguez,E00138,Sales,Software,859.75,Approved,2026-05-19
-CLM-00168,2026-01-21,David Walton,E00160,Sales,Travel,624.88,Pending,
-CLM-00109,2026-03-17,Brian Zuniga,E00190,IT,Travel,998.04,Approved,2026-03-31
-CLM-00131,2026-02-25,David Diaz,E00024,IT,Equipment,64.42,Approved,2026-03-07
-CLM-00171,2026-01-15,Nicholas Lopez,E00150,Sales,Office Supplies,81.26,Approved,2026-01-18
-CLM-00146,2026-02-19,Tiffany Montgomery,E00113,Operations,Software,127.36,Approved,2026-03-05
-CLM-00148,2026-03-13,Tammy Ross,E00022,Operations,Software,494.37,Approved,2026-03-25
-CLM-00002,2026-07-25,Alicia Smith,E00076,IT,Office Supplies,1338.23,Approved,2026-08-08
-CLM-00094,2026-04-10,Michael Anderson,E00041,Operations,Meals,407.32,Approved,2026-04-21
-CLM-00010,2026-07-13,Katherine Mitchell,E00029,Marketing,Meals,944.98,Approved,2026-07-19
-CLM-00045,2026-04-15,Joseph Kidd,E00164,Finance,Software,7.07,Approved,2026-04-22
-CLM-00003,2026-04-04,Tyler Sandoval,E00065,Sales,Equipment,575.82,Rejected,2026-04-13
-CLM-00139,2026-06-07,Kenneth Griffin,E00075,Operations,Travel,761.1,Approved,2026-06-10
-CLM-00125,2026-09-01,Joshua Robbins,E00054,Operations,Office Supplies,61.07,Approved,
-CLM-00073,2026-01-31,Kylie White,E00012,Operations,Equipment,19.16,Approved,
-CLM-00070,2026-05-07,Gary Martin,E00166,Operations,Meals,1695.17,Approved,2026-05-15
-CLM-00095,2026-03-17,Stephen Clark,E00182,Sales,Software,227.3,Approved,2026-03-27
-CLM-00080,2026-09-21,Sarah Crawford,E00127,Sales,Office Supplies,149.6,Pending,2026-10-01
-CLM-00194,2026-02-22,Jennifer Gomez MD,E00108,Finance,Software,45.9,Approved,2026-03-04
-CLM-00141,2026-05-08,Christopher Jackson,E00053,IT,Office Supplies,231.05,Approved,2026-05-20
-CLM-00198,2026-03-30,Mary Durham,E00003,Operations,Office Supplies,7.24,Approved,2026-04-06
-CLM-00196,2026-03-27,Rebecca Harvey,E00106,Finance,Equipment,637.22,Approved,2026-04-02
-CLM-00005,2026-02-08,Maria Stewart,E00030,IT,Office Supplies,1493.1,Approved,2026-02-14
-CLM-00124,2026-06-22,Sue Buckley,E00045,IT,Meals,229.19,Pending,2026-06-26
-CLM-00186,2026-03-12,Adam Kramer,E00069,IT,Equipment,15.91,Approved,2026-03-14
-CLM-00061,2026-01-06,Matthew Willis,E00188,Sales,Travel,866.87,Approved,2026-01-11
-CLM-00140,2026-03-11,Bradley Tucker,E00107,Marketing,Travel,34.09,Approved,2026-03-20
-CLM-00166,2026-09-14,Angela Melendez,E00115,Operations,Travel,83.47,Approved,2026-09-16
-CLM-00069,2026-03-17,Max Long,E00074,Operations,Office Supplies,621.53,Approved,2026-03-30
-CLM-00060,2026-09-22,Dawn Barnes,E00039,Marketing,Software,15.72,Pending,2026-09-29
-CLM-00102,2026-06-28,James Buckley,E00021,Marketing,Travel,116.83,Pending,
-CLM-00162,2026-04-26,Henry Romero,E00097,Operations,Software,279.84,Approved,2026-05-10
-CLM-00089,2026-03-18,Mrs. Jill Sharp MD,E00128,Sales,Meals,1547.53,Approved,
-CLM-00174,2026-08-23,Lori Moss,E00175,Operations,Office Supplies,18.2,Approved,2026-09-01
-CLM-00009,2026-01-19,Anthony Watson,E00177,Operations,Meals,845.55,Approved,2026-02-02
-CLM-00193,2026-03-02,James Blair,E00020,Operations,Meals,40.78,Approved,2026-03-13
-CLM-00107,2026-07-05,Courtney Gutierrez,E00046,Marketing,Meals,922.07,Rejected,
-CLM-00116,2026-01-28,Alejandro Mathews,E00036,Marketing,Meals,38.2,Approved,2026-02-01
-CLM-00087,2026-08-08,Edward Harris,E00001,IT,Software,1301.94,Approved,2026-08-17
-CLM-00026,2026-08-17,Rachael Lindsey,E00134,IT,Meals,41.0,Approved,2026-08-20
-CLM-00083,2026-04-14,Gina Brown,E00100,Operations,Travel,344.15,Approved,2026-04-27
-CLM-00180,2026-01-02,Charles Jones,E00050,IT,Travel,287.04,Approved,2026-01-09
-CLM-00053,2026-07-08,Angela Rivera,E00091,Marketing,Meals,594.26,Approved,2026-07-12
-CLM-00100,2026-04-26,Felicia Brown,E00018,IT,Software,50.94,Approved,2026-05-02
-CLM-00036,2026-06-02,Amy Baxter,E00042,Operations,Meals,1455.04,Approved,2026-06-10
-CLM-00178,2026-02-28,Kim Griffin,E00055,Sales,Travel,1317.42,Approved,2026-03-14
-CLM-00038,2026-01-27,Bethany Avila,E00067,IT,Equipment,351.41,Approved,2026-02-03
-CLM-00082,2026-05-03,Eric Baker,E00092,Marketing,Office Supplies,364.37,Approved,2026-05-12
-CLM-00199,2026-08-16,Daniel Miller,E00198,Operations,Software,31.12,Pending,2026-08-22
-CLM-00051,2026-08-15,Leslie Johnson,E00101,Sales,Equipment,239.7,Approved,2026-08-29
-CLM-00064,2026-05-06,Lisa Mcfarland,E00174,IT,Office Supplies,868.31,Approved,2026-05-19
-CLM-00072,2026-03-29,Nicholas West,E00180,Marketing,Equipment,874.52,Approved,2026-04-10
-CLM-00022,2026-01-03,Dawn Heath,E00152,Operations,Travel,431.37,Rejected,
-CLM-00098,2026-01-28,Roberta Garcia,E00027,Marketing,Travel,1646.37,Approved,
-CLM-00111,2026-03-25,Linda Jackson,E00119,Marketing,Software,1335.27,Approved,2026-04-04
-CLM-00187,2026-07-30,Mathew Harris PhD,E00071,Operations,Equipment,307.72,Approved,2026-08-10
-CLM-00097,2026-06-26,Jennifer Brady,E00154,Marketing,Software,210.22,Approved,2026-06-29
-CLM-00134,2026-09-21,Kimberly Trujillo,E00007,Sales,Office Supplies,29.01,Approved,2026-10-03
-CLM-00048,2026-03-27,Gregg Williams,E00023,Finance,Equipment,268.27,Approved,2026-04-07
-CLM-00092,2026-02-08,Harry Perry,E00061,IT,Equipment,89.96,Pending,2026-02-18
-CLM-00057,2026-04-28,Julie Bailey,E00118,Finance,Meals,465.57,Approved,2026-05-04
-CLM-00157,2026-07-11,Brandy Baldwin,E00077,Operations,Software,588.92,Approved,2026-07-21
-CLM-00197,2026-02-12,Elizabeth Williamson,E00126,Operations,Meals,360.14,Approved,2026-02-18
-CLM-00042,2026-09-09,Timothy Mcdonald,E00199,Finance,Office Supplies,1383.51,Approved,
-CLM-00033,2026-01-26,Joanna Spencer,E00079,Operations,Office Supplies,141.94,Approved,2026-01-30
-CLM-00184,2026-06-11,Briana Rivera,E00151,Operations,Equipment,99.26,Approved,2026-06-14
-CLM-00119,2026-01-20,Cassandra Mercer,E00186,Finance,Equipment,112.86,Approved,2026-01-26
-CLM-00034,2026-03-19,Julie Rodriguez,E00168,Marketing,Office Supplies,690.6,Approved,
-CLM-00099,2026-03-15,Bridget Jimenez,E00192,Marketing,Travel,92.56,Approved,2026-03-29
-CLM-00066,2026-09-09,Denise Miller,E00038,IT,Software,257.93,Approved,2026-09-23
-CLM-00039,2026-05-19,Mrs. Alison House PhD,E00102,Operations,Software,37.11,Approved,2026-05-21
-CLM-00127,2026-08-31,Juan Cole,E00002,Sales,Travel,504.02,Approved,2026-09-13
-CLM-00017,2026-01-10,Heather Moore,E00161,Sales,Software,1412.17,Approved,2026-01-22
-CLM-00159,2026-06-15,Susan Smith,E00163,IT,Office Supplies,10.73,Approved,2026-06-19
-CLM-00037,2026-09-28,Sarah Santiago,E00000,Operations,Meals,431.92,Approved,2026-10-03
-CLM-00084,2026-01-29,Elizabeth Webb,E00197,IT,Software,1322.43,Approved,2026-02-10
-CLM-00112,2026-03-29,Marcus Dominguez,E00084,Operations,Equipment,937.71,Approved,2026-03-30
-CLM-00030,2026-03-24,Robert Carey,E00095,IT,Office Supplies,83.37,Approved,2026-03-29
-CLM-00068,2026-08-28,Lorraine Cruz,E00140,IT,Software,392.94,Approved,
-CLM-00110,2026-05-16,Elizabeth Lopez,E00153,Finance,Meals,1281.75,Approved,2026-05-21
-CLM-00192,2026-02-07,Dawn Long,E00063,Finance,Meals,9.27,Approved,2026-02-16
-CLM-00115,2026-02-11,Misty Williams,E00089,Finance,Software,640.25,Approved,2026-02-23
-CLM-00177,2026-03-29,Martha Smith,E00173,Operations,Equipment,40.72,Approved,2026-04-07
-CLM-00035,2026-03-16,Brenda Mitchell,E00125,IT,Meals,17.88,Approved,2026-03-19
-CLM-00123,2026-02-06,Brianna Novak,E00148,Sales,Software,377.1,Approved,2026-02-08
-CLM-00028,2026-08-14,Charles Moore,E00085,Sales,Meals,1635.22,Approved,2026-08-20
-CLM-00165,2026-02-04,Corey Thompson,E00193,Sales,Equipment,11.36,Rejected,2026-02-11
-CLM-00054,2026-02-20,Jeffrey Lee,E00093,IT,Meals,10.38,Rejected,2026-02-21
-CLM-00065,2026-08-02,Kathy Yang,E00058,Operations,Office Supplies,314.25,Rejected,2026-08-15
-CLM-00188,2026-06-28,Brian Thompson,E00096,Operations,Travel,426.85,Approved,2026-07-11
-CLM-00147,2026-06-06,Daniel Clarke,E00031,Operations,Travel,389.41,Approved,2026-06-15
-CLM-00175,2026-05-11,Phillip Wagner,E00131,Marketing,Software,1442.53,Pending,2026-05-18
-CLM-00079,2026-03-15,Robin Stuart,E00120,Sales,Travel,20.91,Pending,
-CLM-00154,2026-04-13,Amanda Rodriguez,E00006,Operations,Office Supplies,673.07,Approved,2026-04-23
-CLM-00151,2026-07-16,Jennifer Hendricks,E00162,Finance,Meals,206.04,Approved,
-CLM-00011,2026-05-08,Cynthia Martin,E00139,Sales,Travel,570.18,Rejected,2026-05-22
-CLM-00172,2026-08-30,Karen Luna,E00149,Operations,Equipment,632.37,Approved,2026-09-09
-CLM-00086,2026-06-24,Robert Armstrong,E00059,Sales,Meals,310.36,Pending,2026-07-01
-CLM-00025,2026-03-13,Mary Chavez,E00094,Sales,Meals,669.15,Pending,
-CLM-00143,2026-08-04,Sean Mendoza,E00114,IT,Equipment,1242.91,Rejected,2026-08-06
-CLM-00105,2026-09-22,Jeremy Gutierrez,E00056,Operations,Equipment,489.11,Approved,
-CLM-00096,2026-04-08,Cynthia Matthews,E00080,Finance,Equipment,738.42,Approved,2026-04-13
-CLM-00170,2026-08-31,William Garcia,E00155,Operations,Office Supplies,956.63,Approved,2026-09-09
-CLM-00126,2026-03-19,Jon Dickerson,E00011,IT,Travel,416.09,Rejected,2026-03-30
-CLM-00062,2026-08-26,Adam Taylor,E00185,IT,Office Supplies,620.43,Approved,2026-08-30
-CLM-00129,2026-04-22,Jason Pratt,E00129,IT,Software,249.41,Approved,2026-05-01
-CLM-00020,2026-04-08,Lisa Cooper,E00062,Operations,Travel,219.19,Approved,2026-04-09
-CLM-00190,2026-08-26,Anthony Hansen,E00109,Sales,Software,115.49,Approved,2026-09-02
-CLM-00138,2026-02-09,Phillip Flores,E00169,Marketing,Office Supplies,80.56,Approved,2026-02-23
-CLM-00145,2026-01-04,Julie Jones,E00014,IT,Meals,268.69,Approved,2026-01-07
-CLM-00108,2026-06-02,Nicole Thompson,E00032,Sales,Equipment,432.78,Approved,2026-06-16
-CLM-00008,2026-08-08,Michelle Reyes,E00017,IT,Software,758.27,Approved,2026-08-16
-CLM-00128,2026-05-05,Victor Kim,E00157,IT,Meals,201.44,Approved,2026-05-12
-CLM-00091,2026-05-17,Kathleen Greer,E00081,Sales,Travel,745.61,Approved,2026-05-28
-CLM-00121,2026-02-16,Lisa May,E00156,Sales,Travel,10.8,Pending,
-CLM-00071,2026-04-17,Jesse Simmons,E00088,Finance,Equipment,985.01,Approved,2026-05-01
-CLM-00122,2026-01-22,Damon Johnson,E00196,Operations,Software,463.61,Approved,2026-01-30
-CLM-00044,2026-06-05,Danny Chang,E00121,Operations,Software,781.12,Approved,2026-06-18
-CLM-00191,2026-02-14,Christopher Miller,E00191,IT,Travel,125.02,Pending,2026-02-27
-CLM-00152,2026-09-25,Tara Rosario,E00171,Operations,Equipment,9.2,Rejected,2026-10-04
-CLM-00161,2026-04-30,Melissa Thomas,E00132,IT,Software,1596.82,Approved,2026-05-07
-CLM-00055,2026-09-20,Cody Black,E00025,Finance,Meals,397.43,Approved,2026-10-04
-CLM-00150,2026-07-15,Morgan Decker,E00189,Marketing,Software,525.3,Approved,2026-07-27
-CLM-00075,2026-02-23,Desiree Mitchell,E00072,Sales,Meals,122.47,Approved,2026-03-05
-CLM-00029,2026-08-29,Heather Suarez,E00066,Sales,Software,136.41,Approved,2026-09-12
-CLM-00052,2026-01-26,Matthew Hanson,E00167,Marketing,Meals,157.33,Approved,2026-01-28
-CLM-00195,2026-08-12,Chad Morgan,E00008,Finance,Travel,678.09,Approved,2026-08-21
-CLM-00047,2026-08-17,Daniel Townsend,E00078,Operations,Software,226.62,Approved,2026-08-30
-CLM-00117,2026-04-20,David Logan,E00086,Operations,Software,301.28,Pending,
-CLM-00179,2026-09-19,Aaron Manning,E00111,Operations,Office Supplies,321.05,Approved,2026-09-27
-CLM-00176,2026-09-13,Bonnie Shaffer,E00178,Finance,Travel,544.19,Approved,
-CLM-00077,2026-05-29,Christina Sparks,E00143,Sales,Software,46.99,Approved,2026-06-05
-CLM-00078,2026-06-15,David Johnson,E00037,IT,Equipment,726.27,Approved,2026-06-28
-CLM-00142,2026-07-12,Tracy Johnson,E00179,IT,Office Supplies,1557.15,Approved,2026-07-24
-CLM-00076,2026-01-14,Theresa Smith,E00040,Marketing,Travel,51.46,Approved,2026-01-25
-CLM-00074,2026-04-10,David Greene,E00165,Sales,Travel,445.87,Rejected,2026-04-18
-CLM-00004,2026-08-01,John Molina,E00016,Sales,Travel,32.26,Approved,2026-08-02
-CLM-00059,2026-09-04,Mrs. Samantha Mathews,E00049,IT,Travel,142.8,Approved,2026-09-15
-CLM-00007,2026-02-14,Jose Hernandez,E00010,Marketing,Software,1503.1,Pending,
-CLM-00050,2026-05-01,Ruben Rogers,E00044,Marketing,Software,66.55,Approved,2026-05-09
-CLM-00012,2026-03-05,Lauren Berry,E00104,Sales,Software,21.44,Approved,2026-03-16
-CLM-00093,2026-08-21,Michael Robinson,E00052,Sales,Travel,16.69,Approved,2026-09-04
-CLM-00164,2026-08-14,Anita Sanders,E00170,Operations,Travel,717.82,Approved,2026-08-28
-CLM-00000,2026-07-14,Brittany Obrien,E00135,Operations,Office Supplies,290.46,Approved,
-CLM-00144,2026-02-17,Jennifer Gray,E00051,Sales,Meals,204.11,Approved,2026-02-24
-CLM-00013,2026-07-29,Billy Patel,E00098,Marketing,Office Supplies,215.02,Rejected,2026-08-03
-CLM-00130,2026-03-25,Michael Mullins,E00172,Finance,Meals,502.47,Approved,2026-03-27
-CLM-00182,2026-03-30,Rodney Price,E00122,Operations,Travel,199.78,Approved,2026-04-12
-CLM-00046,2026-07-16,Sean Harris,E00083,Marketing,Meals,320.46,Approved,2026-07-26
-CLM-00019,2026-04-22,Jonathan Brown DDS,E00133,Operations,Software,498.2,Approved,2026-04-27
-CLM-00153,2026-04-21,Frank Carroll,E00194,Operations,Equipment,39.64,Approved,2026-05-02
-CLM-00043,2026-05-16,Krista Stevens,E00123,Sales,Meals,428.91,Approved,2026-05-21
-CLM-00041,2026-06-29,Luis Gibson,E00144,IT,Meals,9.37,Approved,2026-07-10
-CLM-00169,2026-08-14,Austin Stout,E00103,Marketing,Equipment,268.74,Approved,
-CLM-00173,2026-07-30,Barbara Arias,E00070,IT,Meals,498.01,Approved,2026-08-07
-CLM-00081,2026-03-01,Rachel Chan,E00064,IT,Travel,1463.41,Approved,2026-03-13
-CLM-00185,2026-03-09,Gabriel Jones,E00147,IT,Office Supplies,318.87,Rejected,2026-03-13
-CLM-00106,2026-07-17,Kathryn Baldwin,E00013,Sales,Office Supplies,128.31,Approved,2026-07-26
-CLM-00183,2026-08-14,Nathan Jones,E00009,Sales,Equipment,404.5,Approved,2026-08-17
-CLM-00014,2026-08-30,Travis Jackson,E00159,Sales,Office Supplies,858.53,Approved,2026-09-02
-CLM-00181,2026-06-18,Judy Fox,E00015,Marketing,Meals,406.39,Approved,2026-06-22
-CLM-00085,2026-09-16,Jeffrey Olson,E00028,Operations,Travel,753.89,Approved,2026-09-25
-CLM-00189,2026-07-23,Desiree Rivera,E00090,Marketing,Software,218.92,Approved,2026-08-06
-CLM-00016,2026-09-12,Martin Vargas,E00137,Marketing,Equipment,12.35,Approved,2026-09-24
+SYN-00027,2026-08-28,Jasmine Harris,X00082,IT,Travel,258.15,Approved,2026-09-04
+SYN-00136,2026-03-27,Tammy Steele,X00033,Operations,Software,1447.52,Rejected,2026-04-09
+SYN-00101,2026-04-19,Matthew Williams,X00057,Operations,Travel,258.77,Approved,2026-04-29
+SYN-00049,2026-09-26,Dr. Alicia Smith,X00073,Finance,Office Supplies,198.97,Approved,2026-10-10
+SYN-00104,2026-01-29,Justin Miller,X00116,Finance,Software,57.41,Approved,2026-02-03
+SYN-00114,2026-06-28,Dennis Hart,X00068,Operations,Travel,158.77,Pending,2026-07-09
+SYN-00056,2026-08-26,Robin Livingston,X00183,Finance,Travel,484.28,Approved,2026-09-01
+SYN-00103,2026-07-25,James Marshall,X00105,Sales,Office Supplies,76.09,Approved,2026-08-04
+SYN-00132,2026-07-23,Roger Newton,X00130,Sales,Equipment,306.55,Approved,2026-07-25
+SYN-00133,2026-09-02,Jonathan Dominguez,X00195,IT,Travel,828.27,Approved,2026-09-10
+SYN-00058,2026-01-18,Amanda Rocha,X00087,Operations,Equipment,936.05,Pending,2026-01-26
+SYN-00120,2026-02-06,Steven Johnson,X00043,Finance,Software,230.54,Approved,2026-02-20
+SYN-00090,2026-04-28,Steven Chapman,X00005,Operations,Meals,95.14,Rejected,
+SYN-00063,2026-05-05,Kimberly Rivera,X00026,Sales,Software,793.03,Pending,2026-05-19
+SYN-00163,2026-03-13,Lynn Greene,X00158,Operations,Equipment,1373.72,Rejected,2026-03-20
+SYN-00040,2026-09-04,Amanda Smith,X00048,Marketing,Equipment,218.17,Approved,
+SYN-00158,2026-09-06,Victoria Prince,X00145,Marketing,Software,718.07,Approved,2026-09-15
+SYN-00156,2026-07-07,Andrew Ward,X00004,Marketing,Software,447.38,Approved,2026-07-19
+SYN-00024,2026-02-17,Nicole Williams,X00112,Marketing,Meals,371.3,Approved,2026-02-18
+SYN-00067,2026-03-27,Christopher Williams,X00146,Finance,Software,1253.38,Approved,2026-04-02
+SYN-00118,2026-03-02,Robert Huff,X00034,IT,Software,15.65,Approved,2026-03-14
+SYN-00137,2026-02-17,Joshua Young,X00124,Operations,Travel,143.48,Approved,
+SYN-00018,2026-07-29,Julia Santos,X00117,Operations,Equipment,1290.91,Pending,2026-08-11
+SYN-00031,2026-05-05,David Valencia,X00110,Operations,Office Supplies,1166.23,Approved,2026-05-19
+SYN-00001,2026-08-06,Courtney Cantrell,X00187,Operations,Meals,125.14,Approved,
+SYN-00160,2026-01-11,Megan Hood,X00176,Finance,Travel,1459.33,Approved,2026-01-20
+SYN-00006,2026-07-18,Taylor Martinez,X00019,Operations,Software,240.66,Approved,2026-07-27
+SYN-00149,2026-03-31,Jonathan Graham,X00136,Marketing,Travel,259.33,Approved,2026-04-02
+SYN-00135,2026-06-01,Raven Brown,X00184,Finance,Software,6.75,Approved,2026-06-03
+SYN-00015,2026-06-06,Steven Roberts,X00035,IT,Software,9.4,Approved,2026-06-12
+SYN-00023,2026-09-17,Joseph Green,X00047,IT,Equipment,73.97,Pending,
+SYN-00113,2026-04-27,Donald Hess,X00141,Operations,Travel,564.43,Approved,2026-05-02
+SYN-00167,2026-06-22,Mark Mcdaniel,X00142,Finance,Equipment,416.98,Approved,2026-07-02
+SYN-00032,2026-04-14,Michael Miller,X00099,Finance,Meals,25.45,Approved,2026-04-15
+SYN-00155,2026-01-16,Jennifer Gallegos,X00181,Sales,Equipment,213.06,Pending,2026-01-23
+SYN-00021,2026-02-27,Ronald Moore,X00060,Marketing,Meals,1115.22,Pending,2026-03-12
+SYN-00088,2026-05-14,Donald Dominguez,X00138,Sales,Software,859.75,Approved,2026-05-19
+SYN-00168,2026-01-21,David Walton,X00160,Sales,Travel,624.88,Pending,
+SYN-00109,2026-03-17,Brian Zuniga,X00190,IT,Travel,998.04,Approved,2026-03-31
+SYN-00131,2026-02-25,David Diaz,X00024,IT,Equipment,64.42,Approved,2026-03-07
+SYN-00171,2026-01-15,Nicholas Lopez,X00150,Sales,Office Supplies,81.26,Approved,2026-01-18
+SYN-00146,2026-02-19,Tiffany Montgomery,X00113,Operations,Software,127.36,Approved,2026-03-05
+SYN-00148,2026-03-13,Tammy Ross,X00022,Operations,Software,494.37,Approved,2026-03-25
+SYN-00002,2026-07-25,Alicia Smith,X00076,IT,Office Supplies,1338.23,Approved,2026-08-08
+SYN-00094,2026-04-10,Michael Anderson,X00041,Operations,Meals,407.32,Approved,2026-04-21
+SYN-00010,2026-07-13,Katherine Mitchell,X00029,Marketing,Meals,944.98,Approved,2026-07-19
+SYN-00045,2026-04-15,Joseph Kidd,X00164,Finance,Software,7.07,Approved,2026-04-22
+SYN-00003,2026-04-04,Tyler Sandoval,X00065,Sales,Equipment,575.82,Rejected,2026-04-13
+SYN-00139,2026-06-07,Kenneth Griffin,X00075,Operations,Travel,761.1,Approved,2026-06-10
+SYN-00125,2026-09-01,Joshua Robbins,X00054,Operations,Office Supplies,61.07,Approved,
+SYN-00073,2026-01-31,Kylie White,X00012,Operations,Equipment,19.16,Approved,
+SYN-00070,2026-05-07,Gary Martin,X00166,Operations,Meals,1695.17,Approved,2026-05-15
+SYN-00095,2026-03-17,Stephen Clark,X00182,Sales,Software,227.3,Approved,2026-03-27
+SYN-00080,2026-09-21,Sarah Crawford,X00127,Sales,Office Supplies,149.6,Pending,2026-10-01
+SYN-00194,2026-02-22,Jennifer Gomez MD,X00108,Finance,Software,45.9,Approved,2026-03-04
+SYN-00141,2026-05-08,Christopher Jackson,X00053,IT,Office Supplies,231.05,Approved,2026-05-20
+SYN-00198,2026-03-30,Mary Durham,X00003,Operations,Office Supplies,7.24,Approved,2026-04-06
+SYN-00196,2026-03-27,Rebecca Harvey,X00106,Finance,Equipment,637.22,Approved,2026-04-02
+SYN-00005,2026-02-08,Maria Stewart,X00030,IT,Office Supplies,1493.1,Approved,2026-02-14
+SYN-00124,2026-06-22,Sue Buckley,X00045,IT,Meals,229.19,Pending,2026-06-26
+SYN-00186,2026-03-12,Adam Kramer,X00069,IT,Equipment,15.91,Approved,2026-03-14
+SYN-00061,2026-01-06,Matthew Willis,X00188,Sales,Travel,866.87,Approved,2026-01-11
+SYN-00140,2026-03-11,Bradley Tucker,X00107,Marketing,Travel,34.09,Approved,2026-03-20
+SYN-00166,2026-09-14,Angela Melendez,X00115,Operations,Travel,83.47,Approved,2026-09-16
+SYN-00069,2026-03-17,Max Long,X00074,Operations,Office Supplies,621.53,Approved,2026-03-30
+SYN-00060,2026-09-22,Dawn Barnes,X00039,Marketing,Software,15.72,Pending,2026-09-29
+SYN-00102,2026-06-28,James Buckley,X00021,Marketing,Travel,116.83,Pending,
+SYN-00162,2026-04-26,Henry Romero,X00097,Operations,Software,279.84,Approved,2026-05-10
+SYN-00089,2026-03-18,Mrs. Jill Sharp MD,X00128,Sales,Meals,1547.53,Approved,
+SYN-00174,2026-08-23,Lori Moss,X00175,Operations,Office Supplies,18.2,Approved,2026-09-01
+SYN-00009,2026-01-19,Anthony Watson,X00177,Operations,Meals,845.55,Approved,2026-02-02
+SYN-00193,2026-03-02,James Blair,X00020,Operations,Meals,40.78,Approved,2026-03-13
+SYN-00107,2026-07-05,Courtney Gutierrez,X00046,Marketing,Meals,922.07,Rejected,
+SYN-00116,2026-01-28,Alejandro Mathews,X00036,Marketing,Meals,38.2,Approved,2026-02-01
+SYN-00087,2026-08-08,Edward Harris,X00001,IT,Software,1301.94,Approved,2026-08-17
+SYN-00026,2026-08-17,Rachael Lindsey,X00134,IT,Meals,41.0,Approved,2026-08-20
+SYN-00083,2026-04-14,Gina Brown,X00100,Operations,Travel,344.15,Approved,2026-04-27
+SYN-00180,2026-01-02,Charles Jones,X00050,IT,Travel,287.04,Approved,2026-01-09
+SYN-00053,2026-07-08,Angela Rivera,X00091,Marketing,Meals,594.26,Approved,2026-07-12
+SYN-00100,2026-04-26,Felicia Brown,X00018,IT,Software,50.94,Approved,2026-05-02
+SYN-00036,2026-06-02,Amy Baxter,X00042,Operations,Meals,1455.04,Approved,2026-06-10
+SYN-00178,2026-02-28,Kim Griffin,X00055,Sales,Travel,1317.42,Approved,2026-03-14
+SYN-00038,2026-01-27,Bethany Avila,X00067,IT,Equipment,351.41,Approved,2026-02-03
+SYN-00082,2026-05-03,Eric Baker,X00092,Marketing,Office Supplies,364.37,Approved,2026-05-12
+SYN-00199,2026-08-16,Daniel Miller,X00198,Operations,Software,31.12,Pending,2026-08-22
+SYN-00051,2026-08-15,Leslie Johnson,X00101,Sales,Equipment,239.7,Approved,2026-08-29
+SYN-00064,2026-05-06,Lisa Mcfarland,X00174,IT,Office Supplies,868.31,Approved,2026-05-19
+SYN-00072,2026-03-29,Nicholas West,X00180,Marketing,Equipment,874.52,Approved,2026-04-10
+SYN-00022,2026-01-03,Dawn Heath,X00152,Operations,Travel,431.37,Rejected,
+SYN-00098,2026-01-28,Roberta Garcia,X00027,Marketing,Travel,1646.37,Approved,
+SYN-00111,2026-03-25,Linda Jackson,X00119,Marketing,Software,1335.27,Approved,2026-04-04
+SYN-00187,2026-07-30,Mathew Harris PhD,X00071,Operations,Equipment,307.72,Approved,2026-08-10
+SYN-00097,2026-06-26,Jennifer Brady,X00154,Marketing,Software,210.22,Approved,2026-06-29
+SYN-00134,2026-09-21,Kimberly Trujillo,X00007,Sales,Office Supplies,29.01,Approved,2026-10-03
+SYN-00048,2026-03-27,Gregg Williams,X00023,Finance,Equipment,268.27,Approved,2026-04-07
+SYN-00092,2026-02-08,Harry Perry,X00061,IT,Equipment,89.96,Pending,2026-02-18
+SYN-00057,2026-04-28,Julie Bailey,X00118,Finance,Meals,465.57,Approved,2026-05-04
+SYN-00157,2026-07-11,Brandy Baldwin,X00077,Operations,Software,588.92,Approved,2026-07-21
+SYN-00197,2026-02-12,Elizabeth Williamson,X00126,Operations,Meals,360.14,Approved,2026-02-18
+SYN-00042,2026-09-09,Timothy Mcdonald,X00199,Finance,Office Supplies,1383.51,Approved,
+SYN-00033,2026-01-26,Joanna Spencer,X00079,Operations,Office Supplies,141.94,Approved,2026-01-30
+SYN-00184,2026-06-11,Briana Rivera,X00151,Operations,Equipment,99.26,Approved,2026-06-14
+SYN-00119,2026-01-20,Cassandra Mercer,X00186,Finance,Equipment,112.86,Approved,2026-01-26
+SYN-00034,2026-03-19,Julie Rodriguez,X00168,Marketing,Office Supplies,690.6,Approved,
+SYN-00099,2026-03-15,Bridget Jimenez,X00192,Marketing,Travel,92.56,Approved,2026-03-29
+SYN-00066,2026-09-09,Denise Miller,X00038,IT,Software,257.93,Approved,2026-09-23
+SYN-00039,2026-05-19,Mrs. Alison House PhD,X00102,Operations,Software,37.11,Approved,2026-05-21
+SYN-00127,2026-08-31,Juan Cole,X00002,Sales,Travel,504.02,Approved,2026-09-13
+SYN-00017,2026-01-10,Heather Moore,X00161,Sales,Software,1412.17,Approved,2026-01-22
+SYN-00159,2026-06-15,Susan Smith,X00163,IT,Office Supplies,10.73,Approved,2026-06-19
+SYN-00037,2026-09-28,Sarah Santiago,X00000,Operations,Meals,431.92,Approved,2026-10-03
+SYN-00084,2026-01-29,Elizabeth Webb,X00197,IT,Software,1322.43,Approved,2026-02-10
+SYN-00112,2026-03-29,Marcus Dominguez,X00084,Operations,Equipment,937.71,Approved,2026-03-30
+SYN-00030,2026-03-24,Robert Carey,X00095,IT,Office Supplies,83.37,Approved,2026-03-29
+SYN-00068,2026-08-28,Lorraine Cruz,X00140,IT,Software,392.94,Approved,
+SYN-00110,2026-05-16,Elizabeth Lopez,X00153,Finance,Meals,1281.75,Approved,2026-05-21
+SYN-00192,2026-02-07,Dawn Long,X00063,Finance,Meals,9.27,Approved,2026-02-16
+SYN-00115,2026-02-11,Misty Williams,X00089,Finance,Software,640.25,Approved,2026-02-23
+SYN-00177,2026-03-29,Martha Smith,X00173,Operations,Equipment,40.72,Approved,2026-04-07
+SYN-00035,2026-03-16,Brenda Mitchell,X00125,IT,Meals,17.88,Approved,2026-03-19
+SYN-00123,2026-02-06,Brianna Novak,X00148,Sales,Software,377.1,Approved,2026-02-08
+SYN-00028,2026-08-14,Charles Moore,X00085,Sales,Meals,1635.22,Approved,2026-08-20
+SYN-00165,2026-02-04,Corey Thompson,X00193,Sales,Equipment,11.36,Rejected,2026-02-11
+SYN-00054,2026-02-20,Jeffrey Lee,X00093,IT,Meals,10.38,Rejected,2026-02-21
+SYN-00065,2026-08-02,Kathy Yang,X00058,Operations,Office Supplies,314.25,Rejected,2026-08-15
+SYN-00188,2026-06-28,Brian Thompson,X00096,Operations,Travel,426.85,Approved,2026-07-11
+SYN-00147,2026-06-06,Daniel Clarke,X00031,Operations,Travel,389.41,Approved,2026-06-15
+SYN-00175,2026-05-11,Phillip Wagner,X00131,Marketing,Software,1442.53,Pending,2026-05-18
+SYN-00079,2026-03-15,Robin Stuart,X00120,Sales,Travel,20.91,Pending,
+SYN-00154,2026-04-13,Amanda Rodriguez,X00006,Operations,Office Supplies,673.07,Approved,2026-04-23
+SYN-00151,2026-07-16,Jennifer Hendricks,X00162,Finance,Meals,206.04,Approved,
+SYN-00011,2026-05-08,Cynthia Martin,X00139,Sales,Travel,570.18,Rejected,2026-05-22
+SYN-00172,2026-08-30,Karen Luna,X00149,Operations,Equipment,632.37,Approved,2026-09-09
+SYN-00086,2026-06-24,Robert Armstrong,X00059,Sales,Meals,310.36,Pending,2026-07-01
+SYN-00025,2026-03-13,Mary Chavez,X00094,Sales,Meals,669.15,Pending,
+SYN-00143,2026-08-04,Sean Mendoza,X00114,IT,Equipment,1242.91,Rejected,2026-08-06
+SYN-00105,2026-09-22,Jeremy Gutierrez,X00056,Operations,Equipment,489.11,Approved,
+SYN-00096,2026-04-08,Cynthia Matthews,X00080,Finance,Equipment,738.42,Approved,2026-04-13
+SYN-00170,2026-08-31,William Garcia,X00155,Operations,Office Supplies,956.63,Approved,2026-09-09
+SYN-00126,2026-03-19,Jon Dickerson,X00011,IT,Travel,416.09,Rejected,2026-03-30
+SYN-00062,2026-08-26,Adam Taylor,X00185,IT,Office Supplies,620.43,Approved,2026-08-30
+SYN-00129,2026-04-22,Jason Pratt,X00129,IT,Software,249.41,Approved,2026-05-01
+SYN-00020,2026-04-08,Lisa Cooper,X00062,Operations,Travel,219.19,Approved,2026-04-09
+SYN-00190,2026-08-26,Anthony Hansen,X00109,Sales,Software,115.49,Approved,2026-09-02
+SYN-00138,2026-02-09,Phillip Flores,X00169,Marketing,Office Supplies,80.56,Approved,2026-02-23
+SYN-00145,2026-01-04,Julie Jones,X00014,IT,Meals,268.69,Approved,2026-01-07
+SYN-00108,2026-06-02,Nicole Thompson,X00032,Sales,Equipment,432.78,Approved,2026-06-16
+SYN-00008,2026-08-08,Michelle Reyes,X00017,IT,Software,758.27,Approved,2026-08-16
+SYN-00128,2026-05-05,Victor Kim,X00157,IT,Meals,201.44,Approved,2026-05-12
+SYN-00091,2026-05-17,Kathleen Greer,X00081,Sales,Travel,745.61,Approved,2026-05-28
+SYN-00121,2026-02-16,Lisa May,X00156,Sales,Travel,10.8,Pending,
+SYN-00071,2026-04-17,Jesse Simmons,X00088,Finance,Equipment,985.01,Approved,2026-05-01
+SYN-00122,2026-01-22,Damon Johnson,X00196,Operations,Software,463.61,Approved,2026-01-30
+SYN-00044,2026-06-05,Danny Chang,X00121,Operations,Software,781.12,Approved,2026-06-18
+SYN-00191,2026-02-14,Christopher Miller,X00191,IT,Travel,125.02,Pending,2026-02-27
+SYN-00152,2026-09-25,Tara Rosario,X00171,Operations,Equipment,9.2,Rejected,2026-10-04
+SYN-00161,2026-04-30,Melissa Thomas,X00132,IT,Software,1596.82,Approved,2026-05-07
+SYN-00055,2026-09-20,Cody Black,X00025,Finance,Meals,397.43,Approved,2026-10-04
+SYN-00150,2026-07-15,Morgan Decker,X00189,Marketing,Software,525.3,Approved,2026-07-27
+SYN-00075,2026-02-23,Desiree Mitchell,X00072,Sales,Meals,122.47,Approved,2026-03-05
+SYN-00029,2026-08-29,Heather Suarez,X00066,Sales,Software,136.41,Approved,2026-09-12
+SYN-00052,2026-01-26,Matthew Hanson,X00167,Marketing,Meals,157.33,Approved,2026-01-28
+SYN-00195,2026-08-12,Chad Morgan,X00008,Finance,Travel,678.09,Approved,2026-08-21
+SYN-00047,2026-08-17,Daniel Townsend,X00078,Operations,Software,226.62,Approved,2026-08-30
+SYN-00117,2026-04-20,David Logan,X00086,Operations,Software,301.28,Pending,
+SYN-00179,2026-09-19,Aaron Manning,X00111,Operations,Office Supplies,321.05,Approved,2026-09-27
+SYN-00176,2026-09-13,Bonnie Shaffer,X00178,Finance,Travel,544.19,Approved,
+SYN-00077,2026-05-29,Christina Sparks,X00143,Sales,Software,46.99,Approved,2026-06-05
+SYN-00078,2026-06-15,David Johnson,X00037,IT,Equipment,726.27,Approved,2026-06-28
+SYN-00142,2026-07-12,Tracy Johnson,X00179,IT,Office Supplies,1557.15,Approved,2026-07-24
+SYN-00076,2026-01-14,Theresa Smith,X00040,Marketing,Travel,51.46,Approved,2026-01-25
+SYN-00074,2026-04-10,David Greene,X00165,Sales,Travel,445.87,Rejected,2026-04-18
+SYN-00004,2026-08-01,John Molina,X00016,Sales,Travel,32.26,Approved,2026-08-02
+SYN-00059,2026-09-04,Mrs. Samantha Mathews,X00049,IT,Travel,142.8,Approved,2026-09-15
+SYN-00007,2026-02-14,Jose Hernandez,X00010,Marketing,Software,1503.1,Pending,
+SYN-00050,2026-05-01,Ruben Rogers,X00044,Marketing,Software,66.55,Approved,2026-05-09
+SYN-00012,2026-03-05,Lauren Berry,X00104,Sales,Software,21.44,Approved,2026-03-16
+SYN-00093,2026-08-21,Michael Robinson,X00052,Sales,Travel,16.69,Approved,2026-09-04
+SYN-00164,2026-08-14,Anita Sanders,X00170,Operations,Travel,717.82,Approved,2026-08-28
+SYN-00000,2026-07-14,Brittany Obrien,X00135,Operations,Office Supplies,290.46,Approved,
+SYN-00144,2026-02-17,Jennifer Gray,X00051,Sales,Meals,204.11,Approved,2026-02-24
+SYN-00013,2026-07-29,Billy Patel,X00098,Marketing,Office Supplies,215.02,Rejected,2026-08-03
+SYN-00130,2026-03-25,Michael Mullins,X00172,Finance,Meals,502.47,Approved,2026-03-27
+SYN-00182,2026-03-30,Rodney Price,X00122,Operations,Travel,199.78,Approved,2026-04-12
+SYN-00046,2026-07-16,Sean Harris,X00083,Marketing,Meals,320.46,Approved,2026-07-26
+SYN-00019,2026-04-22,Jonathan Brown DDS,X00133,Operations,Software,498.2,Approved,2026-04-27
+SYN-00153,2026-04-21,Frank Carroll,X00194,Operations,Equipment,39.64,Approved,2026-05-02
+SYN-00043,2026-05-16,Krista Stevens,X00123,Sales,Meals,428.91,Approved,2026-05-21
+SYN-00041,2026-06-29,Luis Gibson,X00144,IT,Meals,9.37,Approved,2026-07-10
+SYN-00169,2026-08-14,Austin Stout,X00103,Marketing,Equipment,268.74,Approved,
+SYN-00173,2026-07-30,Barbara Arias,X00070,IT,Meals,498.01,Approved,2026-08-07
+SYN-00081,2026-03-01,Rachel Chan,X00064,IT,Travel,1463.41,Approved,2026-03-13
+SYN-00185,2026-03-09,Gabriel Jones,X00147,IT,Office Supplies,318.87,Rejected,2026-03-13
+SYN-00106,2026-07-17,Kathryn Baldwin,X00013,Sales,Office Supplies,128.31,Approved,2026-07-26
+SYN-00183,2026-08-14,Nathan Jones,X00009,Sales,Equipment,404.5,Approved,2026-08-17
+SYN-00014,2026-08-30,Travis Jackson,X00159,Sales,Office Supplies,858.53,Approved,2026-09-02
+SYN-00181,2026-06-18,Judy Fox,X00015,Marketing,Meals,406.39,Approved,2026-06-22
+SYN-00085,2026-09-16,Jeffrey Olson,X00028,Operations,Travel,753.89,Approved,2026-09-25
+SYN-00189,2026-07-23,Desiree Rivera,X00090,Marketing,Software,218.92,Approved,2026-08-06
+SYN-00016,2026-09-12,Martin Vargas,X00137,Marketing,Equipment,12.35,Approved,2026-09-24

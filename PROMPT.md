@@ -1,6 +1,6 @@
 # The prompt
 
-Attach only the synthetic file, then paste this. Change the file name, the questions and the limits to yours.
+Attach only the synthetic file, then paste this. Change the file name, the questions, the limits and the checks under "Validate before analysing" to fit your file.
 
 ```text
 Context

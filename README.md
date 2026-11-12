@@ -23,15 +23,28 @@ On a Mac, use Terminal, `python3` in the first line and `.venv/bin/python` inste
 .venv\Scripts\python make_synthetic_copy.py
 ```
 
-This runs on the practice file. For your own file, save it from Excel as CSV UTF-8, create a folder called `private`, put it there, and edit the settings at the top of `make_synthetic_copy.py`: the file paths, then your own column names in place of the practice ones (name and ID columns, date columns, columns to keep as they are, columns to drop).
+This runs on the practice file. To use your own file:
 
-Then run it once and read the column types it prints. **This is the step that keeps real names and IDs out of the copy.** SDV guesses each column's type itself, and on the practice file it got two wrong: it read the name column as an ordinary category and had no pattern for new IDs, so every one of the 200 synthetic rows reused real names and IDs. Every name column should show `name`, and every ID column needs a pattern, such as `E[0-9]{5}`. If a type is wrong, set it in `TYPE_FIXES` and run again.
+1. Save it from Excel as CSV UTF-8, create a folder called `private`, and put it there.
+2. Edit the settings at the top of `make_synthetic_copy.py`. The column names in them belong to the practice file, so replace each one with yours or remove it (`[]` for an empty list, `{}` for an empty `TYPE_FIXES`):
+   - `REAL_FILE` and `SYNTHETIC_FILE`: your file and the copy, both in `private`.
+   - `DROP_COLUMNS`: columns your questions don't need, such as free-text notes.
+   - `TYPE_FIXES`: every column with people's names set to `name`, and every ID column set to `id` with a pattern, such as `X[0-9]{5}` (an X and five digits). Pick a prefix your real IDs don't use.
+   - `COPY_AS_IS`: category columns and whole-number counts whose values are fine to share, such as departments or quantities. Never names, emails or IDs: their real values would be copied.
+   - `SENSITIVE`: any other text column whose real values must not appear in the copy. Name, email and ID columns are checked anyway, once the type table shows them as `name`, `email` or `id`.
+   - `DATE_COLUMNS` and `DATE_FORMAT`: every date column, and how the dates are written, such as `"%d/%m/%Y"` for 31/12/2026. `DATE_ORDER`: pairs that must stay in order, such as submitted before decided (`DATE_ORDER = []` if there are none).
+   - `ROWS`: how many synthetic rows to make (200 by default).
+3. Run it. If it stops, the message says what to change.
+4. Read the column table it prints. Names must show `name`, emails `email`, and IDs `id` with a pattern. If a line is wrong, fix it in `TYPE_FIXES` and run again.
+5. Open the copy and look through it before sharing it.
 
-The script won't save anything until every column is accounted for. Columns that keep their real values (departments, notes, plain counts and so on) must each be listed in `COPY_AS_IS` as fine to share, or in `DROP_COLUMNS`. ID columns need a pattern for new IDs, and number columns with stray text are refused. After generating, it removes any row where a name or ID from your file shows up. Open the copy and look through it before sharing it: category values, how often they appear, and the spread of numbers and dates carry over from the real file.
+Don't skip step 4. SDV guesses each column's type itself. In a test with SDV alone and no fixes, it read the practice file's names as an ordinary category and gave the employee IDs no pattern, so all 200 synthetic rows contained real names and employee IDs. The script stops in both of those cases, but it can't tell whether a category column holds names: if you list it in `COPY_AS_IS`, it copies them. The type table is where you catch that.
+
+The script also stops on category and whole-number columns until you decide each one, on ID columns without a pattern, and on number columns with stray text. After generating, it removes rows where a value from your file shows up in a column typed as a name, email or ID, or listed in `SENSITIVE`, and saves nothing if more than 5% of rows do. It doesn't check whether generated dates match real ones, and number columns get only a rough check. Category values, roughly how often each appears, and the spread of numbers and dates carry over from the real file, so share the copy only if that's allowed.
 
 ## Step 2. Give the copy to the AI
 
-Open a chat AI that accepts file uploads, attach **only the synthetic file**, and paste the prompt from [PROMPT.md](PROMPT.md) with your own questions. Download the notebook it writes into the `private` folder.
+Open a chat AI that accepts file uploads, attach **only the synthetic file**, and paste the prompt from [PROMPT.md](PROMPT.md). Change its file name, questions, limits and checks to fit your file. Download the notebook it writes into the `private` folder.
 
 I tested this with Claude (Sonnet 5.5, Medium effort, paid plan): its notebook matched every expected figure on the practice file. ChatGPT also takes file uploads, but I didn't test it.
 
