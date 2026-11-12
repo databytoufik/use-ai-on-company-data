@@ -25,6 +25,8 @@ On a Mac, use Terminal, `python3` in the first line and `.venv/bin/python` inste
 
 This runs on the practice file. For your own file, save it from Excel as CSV UTF-8, create a folder called `private`, put it there, and edit the settings at the top of `make_synthetic_copy.py`: the file paths, then your own column names in place of the practice ones (name and ID columns, date columns, columns to keep as they are, columns to drop).
 
+Then run it once and read the column types it prints. **This is the step that keeps real names and IDs out of the copy.** SDV guesses each column's type itself, and on the practice file it got two wrong: it read the name column as an ordinary category and had no pattern for new IDs, so every one of the 200 synthetic rows reused real names and IDs. Every name column should show `name`, and every ID column needs a pattern, such as `E[0-9]{5}`. If a type is wrong, set it in `TYPE_FIXES` and run again.
+
 The script won't save anything until every column is accounted for. Columns that keep their real values (departments, notes, plain counts and so on) must each be listed in `COPY_AS_IS` as fine to share, or in `DROP_COLUMNS`. ID columns need a pattern for new IDs, and number columns with stray text are refused. After generating, it removes any row where a name or ID from your file shows up. Open the copy and look through it before sharing it: category values, how often they appear, and the spread of numbers and dates carry over from the real file.
 
 ## Step 2. Give the copy to the AI
