@@ -17,6 +17,8 @@ Questions
 How to build it
 - Write a Jupyter notebook. First code cell: FILE_PATH, the only line I should need
   to change for the real file.
+- The real file may have extra columns that the copy doesn't. Ignore any column
+  that isn't in the copy.
 - Validate before analysing: report missing values, values of the wrong type, unexpected
   categories and decisions dated before submission, with a row count for each problem.
   Keep every row. Mark problem rows instead of removing them.

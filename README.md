@@ -28,7 +28,7 @@ This runs on the practice file. To use your own file:
 1. Save it from Excel as CSV UTF-8, create a folder called `private`, and put it there.
 2. Edit the settings at the top of `make_synthetic_copy.py`. The column names in them belong to the practice file, so replace each one with yours or remove it (`[]` for an empty list, `{}` for an empty `TYPE_FIXES`):
    - `REAL_FILE` and `SYNTHETIC_FILE`: your file and the copy, both in `private`.
-   - `DROP_COLUMNS`: columns your questions don't need, such as free-text notes. Drop any other personal column too, like addresses or birth dates, unless your questions need it.
+   - `DROP_COLUMNS`: columns your questions don't need, such as free-text notes. Drop any other personal column too, like addresses or birth dates, unless your questions need it. You don't need to remove them from the real file: the notebook only uses the columns in the copy.
    - `TYPE_FIXES`: every column with people's names set to `name`, and every ID column set to `id` with a pattern, such as `X[0-9]{5}` (an X and five digits). Pick a prefix your real IDs don't use.
    - `COPY_AS_IS`: category columns and whole-number counts whose values are fine to share, such as departments or quantities. Never names, emails or IDs: their real values would be copied.
    - `SENSITIVE`: any other text column whose real values must not appear in the copy. Name, email and ID columns are checked anyway, once the type table shows them as `name`, `email` or `id`.
